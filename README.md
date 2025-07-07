@@ -57,5 +57,4 @@ class SoftwareEngineer
 
 ## 📫 How to reach me
 
-- 💬 Telegram: [@ali_imran7](https://t.me/ali_imran7)  
 - 📩 Email: aliimran.official@gmail.com  
