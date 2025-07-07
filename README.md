@@ -23,7 +23,7 @@ class SoftwareEngineer
 ## 🧠 About Me
 
 - 🎓 3rd year Computer Science student @ University of Kirkuk  
-- 💼 Intern @ Asiacell ASAS Program – Radio Network Optimization  
+- 💼 Intern @ Asiacell ASAS Program 
 - 🛠️ I love learning C#, SQL Server, and Front-end basics  
 - 📍 Based in Kirkuk, Iraq  
 
